@@ -6,11 +6,11 @@ We're very excited that you're considering joining our amazing team!
 
 ## Application
 
-The goal of the application in this repository is to provide you a very basic Rails API so you don't need to run `rails new new_app` and scaffolding a new backend app. We didn't include a test suite, because the idea is to let developers choose which tools they prefer to use.
+The goal of the application in this repository is to provide you a very basic Rails API so you don't need to run `rails new new_app` and scaffold a new backend app. We didn't include a test suite, because the idea is to let developers choose which tools they prefer to use.
 
 ## Goals
 
-We don't want to see a complete solution for this challenge.
+We don't want to see a complete solution for this challenge. We want to observe your style while you're solving a problem.
 
 This is an opportunity for you to shine and show us how quality driven you are.
 
