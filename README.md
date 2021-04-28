@@ -1,24 +1,7 @@
-# README
+# PayWith Rails Engineer Candidate Interview Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Thanks for taking the time to complete this exercise. We're excited that you're considering joining our amazing team.
 
-Things you may want to cover:
+## Next steps
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ask PayWith developers for instructions and the challenge link during the Pair Programming Interview.
