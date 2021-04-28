@@ -1,4 +1,4 @@
-# PayWith Rails Engineer Candidate Interview Project
+# Ruby on Rails Pair Programming Interview
 
 Thanks for taking the time to complete this exercise. We're excited that you're considering joining our amazing team.
 
