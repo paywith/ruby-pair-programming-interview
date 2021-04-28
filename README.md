@@ -4,6 +4,11 @@ Thanks for taking the time to complete this exercise.
 
 We're very excited that you're considering joining our amazing team!
 
+- [Ruby Pair Programming Interview](#ruby-pair-programming-interview)
+  - [Application](#application)
+  - [Goals](#goals)
+  - [Next Steps](#next-steps)
+
 ## Application
 
 The goal of the application in this repository is to provide you a very basic Rails API so you don't need to run `rails new new_app` and scaffold a new backend app. We didn't include a test suite, because the idea is to let developers choose which tools they prefer to use.
