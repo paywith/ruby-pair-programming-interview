@@ -1,6 +1,8 @@
 # Ruby Pair Programming Interview
 
-Thanks for taking the time to complete this exercise. We're excited that you're considering joining our amazing team.
+Thanks for taking the time to complete this exercise.
+
+We're very excited that you're considering joining our amazing team!
 
 ## Application
 
@@ -10,7 +12,9 @@ The goal of the application in this repository is to provide you a very basic Ra
 
 We don't want to see a complete solution for this challenge.
 
-This is an opportunity for you to shine and show us how quality driven you are. Things we look out for in your solution:
+This is an opportunity for you to shine and show us how quality driven you are.
+
+Things we look out for in your solution:
 
 - great communication
 - working solution that meets all of the requirements
