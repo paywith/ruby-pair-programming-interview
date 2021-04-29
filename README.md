@@ -25,7 +25,7 @@ This is an opportunity for you to shine and show us how quality-driven you are.
 Things we look out for in your solution:
 
 - great communication
-- a working solution that meets all of the requirements
+- a working solution that meets the requirements
 - your ability to collaborate technical information with the team
 - not afraid of making mistakes
 - synergy with team members
