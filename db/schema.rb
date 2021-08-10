@@ -16,6 +16,7 @@ ActiveRecord::Schema.define(version: 2021_07_05_215516) do
   enable_extension "plpgsql"
 
   create_table "program_manager_cards", force: :cascade do |t|
+    t.bigint "customer_id"
     t.string "number"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
@@ -29,7 +30,6 @@ ActiveRecord::Schema.define(version: 2021_07_05_215516) do
   end
 
   create_table "program_manager_transactions", force: :cascade do |t|
-    t.bigint "customer_id"
     t.bigint "parent_transaction_id"
     t.bigint "card_id", null: false
     t.string "transaction_type", null: false
