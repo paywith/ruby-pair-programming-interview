@@ -8,11 +8,26 @@ gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.3'
 gem 'rails', '~> 6.1.3.2'
 
+Dir.glob("components/**/*.gemspec") do |gemspec|
+  path      = File.dirname(gemspec)
+  component = File.basename(path)
+
+  gem component, path: path
+end
+
 group :development, :test do
-  gem 'byebug', platforms: %i[mri mingw x64_mingw]
+  gem "factory_bot_rails", "~> 6.1.0"
+  gem "faker", "~> 2.14.0"
 end
 
 group :development do
-  gem 'listen', '~> 3.3'
+  gem 'listen', '~> 3.2'
   gem 'spring'
+  gem 'spring-watcher-listen', '~> 2.0.0'
+end
+
+group :test do
+  gem 'database_cleaner-active_record'
+  gem "rspec-rails", "~> 4.0.1"
+  gem 'shoulda-matchers', '~> 4.0'
 end
