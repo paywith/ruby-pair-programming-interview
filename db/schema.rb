@@ -16,6 +16,7 @@ ActiveRecord::Schema.define(version: 2021_07_05_215516) do
   enable_extension "plpgsql"
 
   create_table "program_manager_cards", force: :cascade do |t|
+    t.bigint "customer_id"
     t.string "number"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
