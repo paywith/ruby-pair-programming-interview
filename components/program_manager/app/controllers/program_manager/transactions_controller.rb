@@ -1,7 +1,6 @@
 module ProgramManager
   class TransactionsController < ActionController::API
-    def transactions
-
+    def index
     end
   end
 end
