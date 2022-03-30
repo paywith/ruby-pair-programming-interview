@@ -5,7 +5,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'pg', '~> 1.1'
-gem 'puma', '~> 5.5'
+gem 'puma', '~> 5.6'
 gem 'rails', '~> 6.1.3.2'
 
 Dir.glob("components/**/*.gemspec") do |gemspec|
